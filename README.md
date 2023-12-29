@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I am from the Department Of electronics And Communication Engineering . <br>Looking forward, I'm excited about the endless possibilities that ECE offers. From developing cutting-edge technologies to addressing real-world challenges, I'm eager to contribute my knowledge and skills to make a positive impact. Whether it's working on innovations in renewable energy, designing smarter communication systems, or pushing the boundaries of artificial intelligence, I'm ready to embrace the ever-evolving landscape of Electrical and Computer Engineering."</p>
+<p align="left">I am from the Department Of Electronics And Communication Engineering. <br>Looking forward, I'm excited about the endless possibilities that ECE offers. From developing cutting-edge technologies to addressing real-world challenges, I'm eager to contribute my knowledge and skills to make a positive impact. Whether it's working on innovations in renewable energy, designing smarter communication systems, or pushing the boundaries of artificial intelligence, I'm ready to embrace the ever-evolving landscape of Electrical and Computer Engineering."</p>
 
 ###
 
